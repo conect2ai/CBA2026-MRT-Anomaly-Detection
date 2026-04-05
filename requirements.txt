@@ -1,0 +1,16 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+pyserial
+jupyterlab
+notebook
+pykan
+xgboost
+torch
+torchvision
+torchaudio
+tqdm
+pytaml
+sympy
