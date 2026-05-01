@@ -6,7 +6,7 @@
 
 &nbsp;
 
-# Modelagem de Tráfego de Redes Industriais com Matrizes de Recorrência Temporal e Aprendizado de Máquina para Detecção de Anomalias
+# Detecção de Anomalias em Redes Industriais na Borda: Uma Abordagem Baseada em Matrizes de Recorrência Temporal e TinyML
 
 ### Autores: [Morsinaldo Medeiros](https://github.com/Morsinaldo), [Dennins Brandão](https://scholar.google.com/citations?user=OxSKwvEAAAAJ&hl=pt-BR), [Marianne Silva](https://github.com/MarianneDiniz) e [Ivanovitch Silva](https://github.com/ivanovitchm)
 
